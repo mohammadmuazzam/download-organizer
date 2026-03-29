@@ -1,0 +1,24 @@
+2026-03-30 02:53:01,429 - INFO - Finished renaming files.
+2026-03-30 02:53:57,223 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
+2026-03-30 02:53:57,223 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
+2026-03-30 02:53:57,223 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
+2026-03-30 02:53:57,223 - INFO - Finished renaming files.
+2026-03-30 02:54:12,516 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
+2026-03-30 02:54:12,516 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
+2026-03-30 02:54:12,516 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
+2026-03-30 02:54:12,517 - INFO - Finished renaming files.
+2026-03-30 02:55:53,924 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
+2026-03-30 02:55:53,924 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
+2026-03-30 02:55:53,924 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
+2026-03-30 02:55:53,924 - INFO - Finished renaming files.
+2026-03-30 02:57:27,908 - INFO - Renaming files in:C:\Users\LENOVO\Downloads\test_folder
+2026-03-30 02:57:27,908 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
+2026-03-30 02:57:27,908 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
+2026-03-30 02:57:27,909 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
+2026-03-30 02:57:27,909 - INFO - Finished renaming files.
+2026-03-30 02:58:49,609 - INFO - Renaming files in:C:\Users\LENOVO\Downloads\test_folder
+2026-03-30 02:58:49,611 - INFO - Successfully renamed 'C:\Users\LENOVO\Downloads\test_folder\My   File   With   Spaces.txt' to 'C:\Users\LENOVO\Downloads\test_folder\my_file_with_spaces.txt'
+2026-03-30 02:58:49,612 - INFO - Successfully renamed 'C:\Users\LENOVO\Downloads\test_folder\special!@#$%^chars.docx' to 'C:\Users\LENOVO\Downloads\test_folder\special_chars.docx'
+2026-03-30 02:58:49,612 - INFO - Duplicate name. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\uppercase_name_(1).PDF'
+2026-03-30 02:58:49,613 - INFO - Successfully renamed 'C:\Users\LENOVO\Downloads\test_folder\UPPERCASE_NAME.PDF' to 'C:\Users\LENOVO\Downloads\test_folder\uppercase_name_(1).PDF'
+2026-03-30 02:58:49,613 - INFO - Finished renaming files.
