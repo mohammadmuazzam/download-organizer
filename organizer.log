@@ -1,24 +1,46 @@
-2026-03-30 02:53:01,429 - INFO - Finished renaming files.
-2026-03-30 02:53:57,223 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
-2026-03-30 02:53:57,223 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
-2026-03-30 02:53:57,223 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
-2026-03-30 02:53:57,223 - INFO - Finished renaming files.
-2026-03-30 02:54:12,516 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
-2026-03-30 02:54:12,516 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
-2026-03-30 02:54:12,516 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
-2026-03-30 02:54:12,517 - INFO - Finished renaming files.
-2026-03-30 02:55:53,924 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
-2026-03-30 02:55:53,924 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
-2026-03-30 02:55:53,924 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
-2026-03-30 02:55:53,924 - INFO - Finished renaming files.
-2026-03-30 02:57:27,908 - INFO - Renaming files in:C:\Users\LENOVO\Downloads\test_folder
-2026-03-30 02:57:27,908 - ERROR - Error: C:\Users\LENOVO\Downloads\My   File   With   Spaces.txt was not found.
-2026-03-30 02:57:27,908 - ERROR - Error: C:\Users\LENOVO\Downloads\special!@#$%^chars.docx was not found.
-2026-03-30 02:57:27,909 - ERROR - Error: C:\Users\LENOVO\Downloads\UPPERCASE_NAME.PDF was not found.
-2026-03-30 02:57:27,909 - INFO - Finished renaming files.
-2026-03-30 02:58:49,609 - INFO - Renaming files in:C:\Users\LENOVO\Downloads\test_folder
-2026-03-30 02:58:49,611 - INFO - Successfully renamed 'C:\Users\LENOVO\Downloads\test_folder\My   File   With   Spaces.txt' to 'C:\Users\LENOVO\Downloads\test_folder\my_file_with_spaces.txt'
-2026-03-30 02:58:49,612 - INFO - Successfully renamed 'C:\Users\LENOVO\Downloads\test_folder\special!@#$%^chars.docx' to 'C:\Users\LENOVO\Downloads\test_folder\special_chars.docx'
-2026-03-30 02:58:49,612 - INFO - Duplicate name. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\uppercase_name_(1).PDF'
-2026-03-30 02:58:49,613 - INFO - Successfully renamed 'C:\Users\LENOVO\Downloads\test_folder\UPPERCASE_NAME.PDF' to 'C:\Users\LENOVO\Downloads\test_folder\uppercase_name_(1).PDF'
-2026-03-30 02:58:49,613 - INFO - Finished renaming files.
+2026-03-30 04:16:40,450 - INFO - root - Starting process
+2026-03-30 04:16:40,480 - INFO - root - Found 4 sets of duplicates.
+2026-03-30 04:16:40,480 - INFO - root - Finished process
+2026-03-30 04:20:34,954 - INFO - root - Starting process
+2026-03-30 04:20:34,981 - INFO - root - Found 4 sets of duplicates.
+2026-03-30 04:20:34,983 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_195.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_195.bin'
+2026-03-30 04:20:34,984 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_264.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_264.bin'
+2026-03-30 04:20:35,023 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_280.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_280.bin'
+2026-03-30 04:20:35,025 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_93.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_93.bin'
+2026-03-30 04:20:35,025 - INFO - root - Finished process
+2026-03-30 04:24:47,831 - INFO - root - Starting process
+2026-03-30 04:24:47,972 - INFO - root - Found 7 sets of duplicates.
+2026-03-30 04:24:47,974 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_159 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_159 - Copy.bin'
+2026-03-30 04:24:47,975 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_255 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_255 - Copy.bin'
+2026-03-30 04:24:47,976 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_26 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_26 - Copy.bin'
+2026-03-30 04:24:47,976 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_373 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_373 - Copy.bin'
+2026-03-30 04:24:47,977 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_405 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_405 - Copy.bin'
+2026-03-30 04:24:47,979 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_406 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_406 - Copy.bin'
+2026-03-30 04:24:47,980 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_80 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_80 - Copy.bin'
+2026-03-30 04:24:47,980 - INFO - root - Finished process
+2026-03-30 04:25:20,053 - INFO - root - Starting process
+2026-03-30 04:25:20,107 - INFO - root - Found 5 sets of duplicates.
+2026-03-30 04:25:20,108 - INFO - root - Duplicate name in Duplicates folder. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_159 - Copy_(1).bin'
+2026-03-30 04:25:20,108 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_159 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_159 - Copy_(1).bin'
+2026-03-30 04:25:20,109 - INFO - root - Duplicate name in Duplicates folder. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_255 - Copy_(1).bin'
+2026-03-30 04:25:20,110 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_255 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_255 - Copy_(1).bin'
+2026-03-30 04:25:20,111 - INFO - root - Duplicate name in Duplicates folder. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_405 - Copy_(1).bin'
+2026-03-30 04:25:20,111 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_405 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_405 - Copy_(1).bin'
+2026-03-30 04:25:20,112 - INFO - root - Duplicate name in Duplicates folder. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_406 - Copy_(1).bin'
+2026-03-30 04:25:20,113 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_406 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_406 - Copy_(1).bin'
+2026-03-30 04:25:20,113 - INFO - root - Duplicate name in Duplicates folder. Renaming to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_80 - Copy_(1).bin'
+2026-03-30 04:25:20,114 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_80 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_80 - Copy_(1).bin'
+2026-03-30 04:25:20,114 - INFO - root - Finished process
+2026-03-30 04:26:06,694 - INFO - root - Starting process
+2026-03-30 04:26:06,752 - INFO - root - Found 4 sets of duplicates.
+2026-03-30 04:26:06,753 - INFO - root - Duplicate name in Duplicates folder. Renaming from 'C:\Users\LENOVO\Downloads\test_folder\random_file_159 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_159 - Copy_(2).bin'
+2026-03-30 04:26:06,792 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_159 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_159 - Copy_(2).bin'
+2026-03-30 04:26:06,792 - INFO - root - Duplicate name in Duplicates folder. Renaming from 'C:\Users\LENOVO\Downloads\test_folder\random_file_255 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_255 - Copy_(2).bin'
+2026-03-30 04:26:06,793 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_255 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_255 - Copy_(2).bin'
+2026-03-30 04:26:06,793 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_332 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_332 - Copy.bin'
+2026-03-30 04:26:06,794 - INFO - root - Duplicate name in Duplicates folder. Renaming from 'C:\Users\LENOVO\Downloads\test_folder\random_file_406 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_406 - Copy_(2).bin'
+2026-03-30 04:26:06,794 - INFO - root - Moved duplicate 'C:\Users\LENOVO\Downloads\test_folder\random_file_406 - Copy.bin' to 'C:\Users\LENOVO\Downloads\test_folder\Duplicates\random_file_406 - Copy_(2).bin'
+2026-03-30 04:26:06,795 - INFO - root - Finished process
+2026-03-30 04:30:06,731 - INFO - root - Starting process
+2026-03-30 04:30:06,744 - INFO - root - Found 0 sets of duplicates.
+2026-03-30 04:30:06,744 - INFO - root - Finished process

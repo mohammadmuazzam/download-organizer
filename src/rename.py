@@ -1,11 +1,12 @@
 import os, logging
-import rename_rules
+import src.rename_rules as rename_rules, src.helper as helper
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
-def rename_all_files(folder_path:str = os.path.join(os.path.expanduser('~'), 'Downloads')):
-    files = _get_all_files(folder_path)
+def rename_all_files(folder_path: str):
+    files = helper.get_all_files(folder_path)
+    logging.info(f"Renaming files in: '{folder_path}'")
 
     for file in files:
         old_path = os.path.join(folder_path, file)
@@ -31,7 +32,6 @@ def _rename_file(old_path: str, new_path: str):
     except OSError as e:
         logging.error(f"System Error: {e}")
 
-
 def _resolve_duplicate_name(new_path: str) -> str:
     base, ext = os.path.splitext(new_path)
     counter = 1
@@ -40,9 +40,3 @@ def _resolve_duplicate_name(new_path: str) -> str:
         new_path = f"{base}_({counter}){ext}"
         counter += 1
     return new_path
-
-def _get_all_files(path:str) -> list:
-    logging.info(f"Renaming files in:{path}")
-    dir = Path(path)
-    contents = [f.name for f in dir.iterdir() if f.is_file()]
-    return contents
